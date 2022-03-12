@@ -10,3 +10,7 @@ Kelas   : TI.20.B1
 
 *Pada pertemuan ke 2 matakuliah pemrograman web, saya akan melakukan beberapa perintah pada HTML*
  
+- Menampilkan Title HTML pada browser <br>
+![Gambar Title pada HTML](pictures/titlehtml.PNG)
+
+<br>
