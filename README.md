@@ -49,7 +49,7 @@ pada poin terakhir kali ini kita akan menambahkan hyperlink pada file HTML ini. 
 
 ![menambahkan hyperlink](pictures/hyperlink.PNG)
 
-<hr>
+
 > ##Pertanyaan##
 >
 > Jawab Pertanyaan Berikut
