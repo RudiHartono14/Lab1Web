@@ -14,3 +14,10 @@ Kelas   : TI.20.B1
 ![Gambar Title pada HTML](pictures/titlehtml.PNG)
 
 <br>
+
+1. **Membuat paragraf**
+<br>
+pada poin ini kita akan membuat paragraf pada file HTML.
+pada sintax p bertujuan untuk membuat paragraf baru. berikut tampilan nya seperti gambar di bawah.
+
+![Membuat paragraf baru](pictures/paragraf1.PNG)
