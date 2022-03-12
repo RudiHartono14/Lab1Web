@@ -27,4 +27,8 @@ pada sintax p bertujuan untuk membuat paragraf baru. berikut tampilan nya sepert
 Pada poin ini kita akan menambahkan judul pada file HTML.
 seperti contoh pada tampilan gambar berikut.
 
-![]
+![menambahkan judul](pictures/judul.PNG)
+
+3. **Memformat teks**
+pada poin kali ini kita akan memformat teks pada paragraf teks yang usdah ada sebelumnya. seperti contoh gambar di bawah ini.
+
