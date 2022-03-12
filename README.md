@@ -62,3 +62,12 @@ error ketika terjadi kesalahan penulisan tag?
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 > 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
+> ## Jawaban nya
+> 1. Ada bebrapa perubahan yang tidak muncul / tampil pada web browser.
+> 2. Tag\<p> untuk membuat paragraf & tag/<br> untuk berpindah baris selanjutnya
+> 3. Alt Tag \<p> adalah keterangan singkat sebuah gambar, title tag adalah balon teks yang muncul saat sebuah gambar.
+> 4. Menurut saya perlu di isi semua, agar dapat menampilkan gambar yang di inginkan
+> 5.    Atribut _blank berfungsi untuk membuka halaman pada tab baru
+        Atribut _self berfungsi untuk membuka halaman pada tab yang sudah di buka
+        Atribut _top berfungsi untuk membuka halaman pada window baru dan layar penuh
+        sedangkan atribut _parent berfungsi untuk membuka link di frame yang satu tingkat di atas frame link tersebut.
