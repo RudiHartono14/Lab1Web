@@ -30,5 +30,10 @@ seperti contoh pada tampilan gambar berikut.
 ![menambahkan judul](pictures/judul.PNG)
 
 3. **Memformat teks**
+<br>
 pada poin kali ini kita akan memformat teks pada paragraf teks yang usdah ada sebelumnya. seperti contoh gambar di bawah ini.
+
+![menambahkan format teks](pictures/format.PNG)
+
+
 
