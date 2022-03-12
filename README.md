@@ -39,5 +39,6 @@ pada poin kali ini kita akan memformat teks pada paragraf teks yang usdah ada se
 <br>
 Pada poin ke empat ini kita akan menambahkan gambar/logo apa pun itu pada file HTML ini. Seperti contoh pada gambar di bawah ini.
 
+![menambahkan gambar](pictures/logokampus.PNG)
 
 
