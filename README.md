@@ -21,3 +21,10 @@ pada poin ini kita akan membuat paragraf pada file HTML.
 pada sintax p bertujuan untuk membuat paragraf baru. berikut tampilan nya seperti gambar di bawah.
 
 ![Membuat paragraf baru](pictures/paragraf1.PNG)
+
+2. **Menambahkan Judul**
+<br>
+Pada poin ini kita akan menambahkan judul pada file HTML.
+seperti contoh pada tampilan gambar berikut.
+
+![]
