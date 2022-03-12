@@ -45,5 +45,6 @@ Pada poin ke empat ini kita akan menambahkan gambar/logo apa pun itu pada file H
 <br>
 pada poin terakhir kali ini kita akan menambahkan hyperlink pada file HTML ini. seperti contoh gambar di bawah ini.
 
+![menambahkan hyperlink](pictures/hyperlink.PNG)
 
 
