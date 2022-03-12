@@ -4,7 +4,9 @@
 <hr>
 
 Nama    : Rudi Hartono
+
 NIM     : 312010027
+
 Kelas   : TI.20.B1
 
 
@@ -46,5 +48,6 @@ Pada poin ke empat ini kita akan menambahkan gambar/logo apa pun itu pada file H
 pada poin terakhir kali ini kita akan menambahkan hyperlink pada file HTML ini. seperti contoh gambar di bawah ini.
 
 ![menambahkan hyperlink](pictures/hyperlink.PNG)
+
 
 
